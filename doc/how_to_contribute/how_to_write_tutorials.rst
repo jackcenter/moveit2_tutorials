@@ -43,7 +43,8 @@ Here are some awesome examples to draw inspiration from for creating tutorials:
 * `libuv book <http://docs.libuv.org/en/v1.x/guide/introduction.html>`_
 * `React Native Docs <https://reactnative.dev/docs/getting-started>`_
 
-Steps
+
+Tasks
 -----
 
 1 Copy the template
@@ -63,7 +64,7 @@ Create a new directory in the ``doc/tutorials`` directory, then create a file in
 
   <Explination of what the user should have already done before this tutorial>
 
-  Steps
+  Tasks
   -----
 
   1 <First Step>
