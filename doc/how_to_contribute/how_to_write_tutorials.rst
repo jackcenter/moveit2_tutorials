@@ -43,7 +43,6 @@ Here are some awesome examples to draw inspiration from for creating tutorials:
 * `libuv book <http://docs.libuv.org/en/v1.x/guide/introduction.html>`_
 * `React Native Docs <https://reactnative.dev/docs/getting-started>`_
 
-
 Tasks
 -----
 
