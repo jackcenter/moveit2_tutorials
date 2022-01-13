@@ -79,5 +79,5 @@ Template
 
 Further Reading
 ---------------
-
+- :doc:'doc/how_to_contribute/how_to_contribute_to_site.rst'
 - Concepts page: :doc:`/doc/concepts/how_to_guide`
