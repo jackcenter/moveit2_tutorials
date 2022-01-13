@@ -16,7 +16,7 @@ Requirements
 - ROS 2 Galactic
 - MoveIt2
 
-Steps
+Tasks
 -----
 
 1. Fork the MoveIt2 Tutorials repository (https://github.com/ros-planning/moveit2_tutorials.git) and start a new branch with an intuitive name (e.g. jack/how-to-write-how-tos)
@@ -48,7 +48,7 @@ Steps
 #. Submit the new page as a PR to the MoveIt2 Tutorials repository (https://github.com/ros-planning/moveit2_tutorials.git).
 
 Template
-~~~~~~~~
+--------
 
 .. code-block::
 
@@ -67,7 +67,7 @@ Template
 
   <Explination of what the user should understand.  Unlike a tutorial these are stand-alone and can assume the user has much more background.>
 
-  Steps
+  Tasks
   -----
 
   <A list of steps to take to solve the problem>
