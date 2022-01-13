@@ -16,7 +16,7 @@ Requirements
 - ROS 2 Galactic
 - MoveIt2
 
-Tasks
+Steps
 -----
 
 1. Fork the MoveIt2 Tutorials repository (https://github.com/ros-planning/moveit2_tutorials.git) and start a new branch with an intuitive name (e.g. jack/how-to-tutorials)
@@ -60,7 +60,7 @@ Template
 
   <Explination of what the user should have already done before this tutorial>
 
-  Tasks
+  Steps
   -----
 
   1. <First Step>
@@ -95,5 +95,5 @@ Template
 
 Further Reading
 ---------------
-- :doc:'doc/how_to_contribute/how_to_contribute_to_site.rst'
+- :doc:`/doc/how_to_contribute/how_to_contribute_to_site`
 - Concepts page: :doc:`/doc/concepts/tutorials`
